@@ -1,0 +1,23 @@
+{
+  "name": "config-rec",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-drinkvodka/config-rec.git"
+  },
+  "author": "Alex Drinkvodka <alex.drinkvodka@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-drinkvodka/config-rec/issues"
+  },
+  "homepage": "https://github.com/alex-drinkvodka/config-rec#readme",
+  "dependencies": {
+    "ini": "^1.3.4",
+    "merge": "^1.2.0"
+  }
+}
